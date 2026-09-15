@@ -15,8 +15,7 @@ Register your team by adding one row to the table below and submitting the chang
 
 | No. | Name | Members | Requirements |
 | ---: | --- | --- | --- |
-| 0 | [Instructors](teams/Instructors.md) | [Scott Uk-Jin Lee](https://github.com/scottukjinlee/scottukjinlee), [Seungho Kim](https://github.com/oh-gnues/oh-gnues), [Elkarmy Salma](https://github.com/salma5-cpu), [Eric Zhang](https://github.com/Eric-Zhang37) | [Course guidance](teams/Instructors.md#responsibilities) |
-
+| 3 | Mantis | [Parth](https://github.com/himmm69), [Marco](https://github.com/markovorkapic), [Adib](https://github.com/Adiboba), [Aizat](https://github.com/AizatIqbal), [Farhana](https://github.com/hana-hanif), [Hessa](https://github.com/srhessaroslan-ux), [Aiman](https://github.com/Irfnaimann02), [Dina](https://github.com/dinaadaniii), [Syafiq](https://github.com/syafiqnorfandhi) | [Records & Achievements System](teams/Mantis.md)
 ## Screenshots
 
 | Title Screen | Game Screen | Score Screen |
